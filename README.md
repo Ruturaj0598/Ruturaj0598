@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Ruturaj Shelake</h1>
 <h3 align="left">I am a Data Analyst and Machine Learning enthusiast with a strong passion for technology! I'm passionate about leveraging data to drive insights, solve complex problems, and create innovative solutions. Here, you'll find a collection of my projects, skills, and experiences in the realms of data analytics and machine learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruturaj0598&label=Profile%20views&color=0e75b6&style=flat" alt="ruturaj0598" /> </p>
-
 - 📫 How to reach me **rsruturaj05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
