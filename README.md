@@ -3,16 +3,7 @@
   <img src="https://github.com/user-attachments/assets/8728cd2a-3334-485f-8f88-68be4d8d9183" alt="I'm still learning - Michelangelo" style="width: 100%; max-width: 800px; height: auto; border-radius: 10px;"/>
 </div>
 
-<!-- Social Media Buttons -->
-<p align="center">
-<a href="mailto:your.email@gmail.com" style="display: inline-block; transform: scale(1.5);">
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
 
-<a href="https://www.linkedin.com/in/ruturajshelake/" style="display: inline-block; transform: scale(1.5);">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-</p>
 
 <!-- Visitor Counter (Optional: Use shields.io or similar services) -->
 
@@ -82,7 +73,15 @@ Currently, I'm completing my **Master's Thesis at the Fraunhofer Institute for P
 
 I'm always open to discussing data engineering, analytics, potential collaborations, or just connecting with fellow tech enthusiasts!
 
-*   **LinkedIn:** [linkedin.com/in/ruturajshelake](https://www.linkedin.com/in/ruturajshelake/)
-*   **Email:** [rsruturaj05@gmail.com](mailto:rsruturaj05@gmail.com)
+<!-- Social Media Buttons -->
+<p align="center">
+<a href="mailto:your.email@gmail.com" style="display: inline-block; transform: scale(1.5);">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ruturajshelake/" style="display: inline-block; transform: scale(1.5);">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</p>
 
 Thanks for visiting my profile!
