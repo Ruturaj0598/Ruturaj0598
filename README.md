@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[download.jpg" alt="I'm still learning - Michelangelo" width="600](https://i.pinimg.com/736x/a2/e0/60/a2e060a2dc4d6c50c1ac858d397b875e.jpg)"/>
+  <img src="https://github.com/user-attachments/assets/f55a7c4e-256a-4c02-88e0-fbda11da78db" alt="Your Banner Description" width="100%"/>
 </p>
 
 <!-- Social Media Buttons -->
