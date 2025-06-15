@@ -1,12 +1,30 @@
-# 👋 Hi, I'm Ruturaj Shelake!
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://pplx-res.cloudinary.com/image/private/user_uploads/14959866/18c023ef-1251-4677-bc54-deeb46828cbe/image.jpg" alt="Banner" width="800"/>
+</p>
 
-<a href="https://www.linkedin.com/in/ruturajshelake/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<!-- Social Media Buttons -->
+<p align="center">
+<a href="mailto:your.email@gmail.com" style="display: inline-block; transform: scale(1.5);">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="mailto:rsruturaj05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+
+<a href="https://www.linkedin.com/in/ruturajshelake/" style="display: inline-block; transform: scale(1.5);">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<!-- Add other social links if you have them -->
+</p>
+
+<!-- Visitor Counter (Optional: Use shields.io or similar services) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="visitors"/>
+</p>
+
+# <h2 align="center" style="font-size: 10em;"> 👋 Hi, I'm Ruturaj!</h2>
+
+<!-- Skills / Specializations -->
+<p align="center">
+  Generative AI | Data Science | AI | Predictive & Descriptive Analytics | NLP | Speech Analytics
+</p>
 
 ---
 
