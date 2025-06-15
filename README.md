@@ -19,7 +19,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ruturaj0598&color=blue" alt="visitors" width="120" />
   &nbsp;
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=Ruturaj_0598&repo=Ruturaj0598&color=red" alt="visitors" width="120" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=Ruturaj_0598&repo=Ruturaj0598&color=red" alt="visitors" width="105" />
 </div>
 
 
