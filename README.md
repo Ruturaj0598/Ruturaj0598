@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="visitors"/>
 </p>
 
-# <h2 align="center" style="font-size: 10em;"> 👋 Hi, I'm Ruturaj!</h2>
+<h1 align="center" style="font-size: 25 em;"> 👋 Hi, I'm Ruturaj!</h1>
 
 <!-- Skills / Specializations -->
 <p align="center">
