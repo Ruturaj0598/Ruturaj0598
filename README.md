@@ -15,9 +15,13 @@
 </p>
 
 <!-- Visitor Counter (Optional: Use shields.io or similar services) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="visitors"/>
-</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ruturaj0598&color=blue" alt="visitors" width="120" />
+  &nbsp;
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=Ruturaj_0598&repo=Ruturaj0598&color=red" alt="visitors" width="120" />
+</div>
+
 
 <h1 align="center" style="font-size: 25 em;"> 👋 Hi, I'm Ruturaj!</h1>
 
