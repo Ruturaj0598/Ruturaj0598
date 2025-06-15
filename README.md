@@ -1,7 +1,7 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f55a7c4e-256a-4c02-88e0-fbda11da78db" alt="Your Banner Description" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8728cd2a-3334-485f-8f88-68be4d8d9183" alt="I'm still learning - Michelangelo" style="width: 100%; max-width: 800px; height: auto; border-radius: 10px;"/>
+</div>
 
 <!-- Social Media Buttons -->
 <p align="center">
@@ -23,7 +23,7 @@
 
 <!-- Skills / Specializations -->
 <p align="center">
-  Generative AI | Data Science | AI | Predictive & Descriptive Analytics | NLP | Speech Analytics
+  Generative AI | Data Science | AI | Data Pipelines
 </p>
 
 ---
