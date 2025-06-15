@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://pplx-res.cloudinary.com/image/private/user_uploads/14959866/18c023ef-1251-4677-bc54-deeb46828cbe/image.jpg" alt="Banner" width="800"/>
+  <img src="[download.jpg" alt="I'm still learning - Michelangelo" width="600](https://i.pinimg.com/736x/a2/e0/60/a2e060a2dc4d6c50c1ac858d397b875e.jpg)"/>
 </p>
 
 <!-- Social Media Buttons -->
