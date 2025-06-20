@@ -1,6 +1,6 @@
 <!-- Main Banner Image -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3470d35e-fcad-477c-8b7e-a5d6f463c2e8" alt="Banner" style="width: 100%; max-width: 800px; height: 300px; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/c8d01f97-dbda-4cfd-91e9-4adb6e905b0e" alt="Banner" style="width: 100%; max-width: 800px; height: 350px; border-radius: 10px;"/>
 </div>
 
 <!-- Visitor Counter (Optional: Use shields.io or similar services) -->
@@ -18,19 +18,23 @@
 ---
 
 ## 💫 About Me
-
+<table width="100%">
+  <tr>
+    <td style="text-align: justify;">
 <img align="left" src="https://github.com/user-attachments/assets/efb15ddf-6571-4721-9905-458d13e383d5" width="160" style="margin-right: 18px; margin-bottom: 12px;" alt="Developer illustration">
 
-I'm a passionate **Data Engineer** and **Analyst** with over 3 years of experience, dedicated to transforming raw data into actionable intelligence and scalable solutions 📊. My journey lies at the intersection of engineering, data science, and real-time analytics, with a strong focus on optimizing manufacturing processes and embracing Industry 4.0 principles. 
+I'm a passionate **Data Engineer** and **Analyst** with over 3 years of experience, dedicated to transforming raw data into actionable intelligence and scalable solutions 📊. My journey lies at the intersection of engineering, data science, and real-time analytics, with a strong focus on optimizing manufacturing processes and embracing Industry 4.0 principles.
+
+I have completed my **M.Sc. in Smart Systems from Hochschule Furtwangen University**. Currently, I am working at the **Friedrich Loeffler Institute (FLI)** as an **IT Mitarbeiter** for the HaDEA project with **EFSA (European Food Safety Authority)**, where I develop pipelines for automated data mapping and ensure the smooth functionality of data flow into the Data Warehouse.
 
 Driven by a curiosity for uncovering hidden patterns and a commitment to data-driven decision-making, I leverage technologies like **Python, SQL, Apache Kafka, Airflow, and Power BI** to build robust data pipelines, enhance BI reporting, and solve complex challenges.
-
-Currently, I'm completing my **Master's Thesis at the Fraunhofer Institute for Production Technology (IPT)**, where I'm developing a uniform data model for laser structuring, further deepening my expertise in real-time data systems and semantic modeling for digital twins 🤖.
 
 🌱 I'm continuously learning and improving, currently enhancing my German language skills (B1 level) to better collaborate within the German work environment.
 
 <br clear="left"/>
-
+    </td>
+  </tr>
+</table>
 
 ---
 
