@@ -14,7 +14,7 @@
 
 <!-- Skills / Specializations -->
 <p align="center">
-  Generative AI | Data Science | AI | Data Pipelines
+Data Analysis | AI | Data Pipelines
 </p>
 
 ---
