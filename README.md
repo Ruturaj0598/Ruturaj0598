@@ -1,20 +1,16 @@
-<!-- Banner Image -->
+<!-- Main Banner Image -->
 <div align="center">
   <img src="https://github.com/user-attachments/assets/8728cd2a-3334-485f-8f88-68be4d8d9183" alt="I'm still learning - Michelangelo" style="width: 100%; max-width: 800px; height: auto; border-radius: 10px;"/>
 </div>
 
-
-
 <!-- Visitor Counter (Optional: Use shields.io or similar services) -->
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ruturaj0598&color=blue" alt="visitors" width="120" />
   &nbsp;
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=Ruturaj_0598&repo=Ruturaj0598&color=red" alt="visitors" width="105" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=Ruturaj_0598&repo=Ruturaj0598&color=red" alt="visitors" width="120" />
 </div>
 
-
-<h1 align="center" style="font-size: 25 em;"> 👋 Hi, I'm Ruturaj!</h1>
+<h1 align="center" style="font-size: 2.5em;"> 👋 Hi, I'm Ruturaj!</h1>
 
 <!-- Skills / Specializations -->
 <p align="center">
@@ -25,6 +21,8 @@
 
 ## 💫 About Me
 
+<img align="left" src="https://pplx-res.cloudinary.com/image/private/user_uploads/14959866/39d30698-4be6-4c62-989a-bf58d71b161a/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.jpg" width="180" style="margin-right: 18px; margin-bottom: 12px;" alt="Developer at desk illustration">
+
 I'm a passionate **Data Engineer** and **Analyst** with over 3 years of experience, dedicated to transforming raw data into actionable intelligence and scalable solutions 📊. My journey lies at the intersection of engineering, data science, and real-time analytics, with a strong focus on optimizing manufacturing processes and embracing Industry 4.0 principles.
 
 Driven by a curiosity for uncovering hidden patterns and a commitment to data-driven decision-making, I leverage technologies like **Python, SQL, Apache Kafka, Airflow, and Power BI** to build robust data pipelines, enhance BI reporting, and solve complex challenges.
@@ -32,6 +30,9 @@ Driven by a curiosity for uncovering hidden patterns and a commitment to data-dr
 Currently, I'm completing my **Master's Thesis at the Fraunhofer Institute for Production Technology (IPT)**, where I'm developing a uniform data model for laser structuring, further deepening my expertise in real-time data systems and semantic modeling for digital twins 🤖.
 
 🌱 I'm continuously learning and improving, currently enhancing my German language skills (B1 level) to better collaborate within the German work environment.
+
+<br clear="left"/>
+
 
 ---
 
