@@ -21,7 +21,7 @@
 
 ## 💫 About Me
 
-<img align="left" src="https://pplx-res.cloudinary.com/image/private/user_uploads/14959866/39d30698-4be6-4c62-989a-bf58d71b161a/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.jpg" width="180" style="margin-right: 18px; margin-bottom: 12px;" alt="Developer at desk illustration">
+<img align="left" src="https://github.com/user-attachments/assets/efb15ddf-6571-4721-9905-458d13e383d5" width="160" style="margin-right: 18px; margin-bottom: 12px;" alt="Developer illustration">
 
 I'm a passionate **Data Engineer** and **Analyst** with over 3 years of experience, dedicated to transforming raw data into actionable intelligence and scalable solutions 📊. My journey lies at the intersection of engineering, data science, and real-time analytics, with a strong focus on optimizing manufacturing processes and embracing Industry 4.0 principles.
 
