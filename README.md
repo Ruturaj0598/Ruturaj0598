@@ -1,6 +1,6 @@
 <!-- Main Banner Image -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8728cd2a-3334-485f-8f88-68be4d8d9183" alt="I'm still learning - Michelangelo" style="width: 100%; max-width: 800px; height: auto; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/3470d35e-fcad-477c-8b7e-a5d6f463c2e8" alt="Banner" style="width: 100%; max-width: 800px; height: 300px; border-radius: 10px;"/>
 </div>
 
 <!-- Visitor Counter (Optional: Use shields.io or similar services) -->
@@ -10,11 +10,9 @@
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=Ruturaj_0598&repo=Ruturaj0598&color=red" alt="visitors" width="120" />
 </div>
 
-<h1 align="center" style="font-size: 2.5em;"> 👋 Hi, I'm Ruturaj!</h1>
-
 <!-- Skills / Specializations -->
 <p align="center">
-Data Analysis | AI | Data Pipelines
+<h1 align="center">Data Analysis | AI | Data Pipelines</h1>
 </p>
 
 ---
@@ -23,7 +21,7 @@ Data Analysis | AI | Data Pipelines
 
 <img align="left" src="https://github.com/user-attachments/assets/efb15ddf-6571-4721-9905-458d13e383d5" width="160" style="margin-right: 18px; margin-bottom: 12px;" alt="Developer illustration">
 
-I'm a passionate **Data Engineer** and **Analyst** with over 3 years of experience, dedicated to transforming raw data into actionable intelligence and scalable solutions 📊. My journey lies at the intersection of engineering, data science, and real-time analytics, with a strong focus on optimizing manufacturing processes and embracing Industry 4.0 principles.
+I'm a passionate **Data Engineer** and **Analyst** with over 3 years of experience, dedicated to transforming raw data into actionable intelligence and scalable solutions 📊. My journey lies at the intersection of engineering, data science, and real-time analytics, with a strong focus on optimizing manufacturing processes and embracing Industry 4.0 principles. 
 
 Driven by a curiosity for uncovering hidden patterns and a commitment to data-driven decision-making, I leverage technologies like **Python, SQL, Apache Kafka, Airflow, and Power BI** to build robust data pipelines, enhance BI reporting, and solve complex challenges.
 
@@ -76,13 +74,13 @@ I'm always open to discussing data engineering, analytics, potential collaborati
 
 <!-- Social Media Buttons -->
 <p align="center">
-<a href="mailto:your.email@gmail.com" style="display: inline-block; transform: scale(1.5);">
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ruturajshelake/" style="display: inline-block; transform: scale(1.5);">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+  <a href="mailto:rsruturaj05@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="32"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ruturajshelake/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="32"/>
+  </a>
 </p>
 
 Thanks for visiting my profile!
