@@ -1,6 +1,6 @@
 <!-- Main Banner Image -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c8d01f97-dbda-4cfd-91e9-4adb6e905b0e" alt="Banner" style="width: 100%; max-width: 800px; height: 350px; border-radius: 10px;"/>
+  <img src="images/Untitled.png" alt="Banner" style="width: 100%; max-width: 800px; height: 350px; border-radius: 10px;"/>
 </div>
 
 <!-- Visitor Counter (Optional: Use shields.io or similar services) -->
@@ -21,7 +21,7 @@
 <table width="100%">
   <tr>
     <td style="text-align: justify;">
-<img align="left" src="https://github.com/user-attachments/assets/efb15ddf-6571-4721-9905-458d13e383d5" width="160" style="margin-right: 18px; margin-bottom: 12px;" alt="Developer illustration">
+<img align="left" src="images/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="160" style="margin-right: 18px; margin-bottom: 12px;" alt="Developer illustration">
 
 I'm a passionate **Data Engineer** and **Analyst** with over 3 years of experience, dedicated to transforming raw data into actionable intelligence and scalable solutions 📊. My journey lies at the intersection of engineering, data science, and real-time analytics, with a strong focus on optimizing manufacturing processes and embracing Industry 4.0 principles.
 
